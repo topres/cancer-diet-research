@@ -4,14 +4,13 @@ This file provides guidance to WARP (warp.dev) when working with code in this re
 
 ## Project Overview
 
-This repository is designed for analyzing scientific podcasts about cancer and diet research. The primary goal is to fact-check claims made in podcast episodes against peer-reviewed literature and build a knowledge base of verified scientific information.
+This repository is designed for analyzing scientific claims about cancer and diet research. The primary goal is to fact-check claims against peer-reviewed literature and build a knowledge base of verified scientific information.
 
 ## Repository Structure
 
-- `episodes/` - Organized by topic areas (e.g., `cancer-and-keto/`, `nutrition-myths/`)
-  - Each topic directory contains episode analysis files and all related assets
-- `research/` - Supporting research papers, citations, and scientific references  
-- `docs/` - Documentation, methodology, and analysis frameworks
+- `cancer-and-keto/` - Research area focused on ketogenic diet and cancer metabolism claims
+  - Contains claim analysis files and all related research assets
+- Additional topic directories will be organized by research focus areas
 
 ## Source Review Guidelines
 
@@ -64,7 +63,7 @@ When conducting source reviews for claim research documents, **always reference 
 ## Git Workflow
 
 This is a content-focused repository where changes typically involve:
-- Adding new episode analyses
+- Adding new research analyses
 - Updating research findings with source reviews
 - Expanding documentation
 
