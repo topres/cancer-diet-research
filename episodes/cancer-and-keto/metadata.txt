@@ -1,0 +1,73 @@
+YouTube Video Metadata
+=======================
+
+Basic Information:
+------------------
+Video ID: VaVC3PAWqLk
+Title: The Cancer Doctor: "This Common Food Is Making Cancer Worse!"
+Channel: The Diary Of A CEO
+Channel ID: UCJ9XSiDpAKep0dFPAz89JgA
+Uploader: The Diary Of A CEO
+Upload Date: 2024-10-07
+Duration: 5853 seconds (1h 37m 33s)
+View Count: [varies - check YouTube directly]
+Like Count: [varies - check YouTube directly]
+
+URLs:
+-----
+YouTube URL: https://www.youtube.com/watch?v=VaVC3PAWqLk
+Channel URL: https://www.youtube.com/@TheDiaryOfACEO
+
+Video Quality Available:
+------------------------
+- 144p (MP4/WebM)
+- 240p (MP4/WebM) 
+- 360p (MP4/WebM)
+- 480p (MP4/WebM)
+- 720p (MP4/WebM)
+- 1080p (MP4/WebM) 
+- 1440p (WebM)
+- 2160p (WebM/MP4)
+
+Audio Quality Available:
+------------------------
+- 48 kHz WebM (Opus codec)
+- 44.1 kHz M4A (AAC codec)
+- Multiple bitrates: 49-129 kbps
+
+Subtitles Available:
+--------------------
+- English (original/manual)
+- English (auto-generated)
+- Spanish (auto-generated/dubbed)
+
+Downloaded Files:
+-----------------
+- Video: cancer-and-keto.mp4 (360p, ~264 MB)
+- Original Transcript: cancer-and-keto.en-orig.txt
+- Auto Transcript: cancer-and-keto.en.txt  
+- VTT Subtitles: cancer-and-keto.en-orig.vtt, cancer-and-keto.en.vtt
+- Analysis: cancer-and-keto.md
+
+Research Context:
+-----------------
+Topic Category: Cancer and Ketogenic Diet
+Research Focus: Claims about diet and cancer prevention/treatment
+Analysis Status: Downloaded, ready for fact-checking
+Expected Claims: Dietary recommendations, cancer causation, treatment approaches
+
+File Naming Convention:
+-----------------------
+Prefix: cancer-and-keto
+Format: cancer-and-keto.[extension]
+Date Downloaded: 2025-01-05
+Downloaded By: yt-dlp v2025.08.27
+
+Notes:
+------
+- This episode discusses cancer prevention and dietary factors
+- Part of systematic fact-checking project against peer-reviewed literature
+- Files reorganized from original diary-of-a-ceo-2024-10-07-* naming
+- All assets contained in episodes/cancer-and-keto/ directory
+
+Last Updated: 2025-01-05

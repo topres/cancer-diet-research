@@ -3,9 +3,9 @@ youtube_id: VaVC3PAWqLk
 upload_date: 2024-10-07
 podcast: The Diary Of A CEO
 title: "The Cancer Doctor: This Common Food Is Making Cancer Worse!"
-video_file: diary-of-a-ceo-2024-10-07-the-cancer-doctor-this-common-food-is-making-cancer-worse.mp4
-transcript_file: diary-of-a-ceo-2024-10-07-the-cancer-doctor-this-common-food-is-making-cancer-worse.en.txt
-auto_transcript_file: diary-of-a-ceo-2024-10-07-the-cancer-doctor-this-common-food-is-making-cancer-worse.en-orig.txt
+video_file: cancer-and-keto.mp4
+transcript_file: cancer-and-keto.en.txt
+auto_transcript_file: cancer-and-keto.en-orig.txt
 duration_seconds: 5853
 duration_display: "1h 37m 33s"
 ---
@@ -19,9 +19,10 @@ duration_display: "1h 37m 33s"
 * **Description**: A discussion about cancer prevention and the role of diet in cancer development
 
 ## Files Available
-- **Video**: `diary-of-a-ceo-2024-10-07-the-cancer-doctor-this-common-food-is-making-cancer-worse.mp4` (264 MB)
-- **Original Transcript**: `diary-of-a-ceo-2024-10-07-the-cancer-doctor-this-common-food-is-making-cancer-worse.en-orig.txt`
-- **Auto-generated Transcript**: `diary-of-a-ceo-2024-10-07-the-cancer-doctor-this-common-food-is-making-cancer-worse.en.txt`
+- **Video**: `cancer-and-keto.mp4` (264 MB)
+- **Original Transcript**: `cancer-and-keto.en-orig.txt`
+- **Auto-generated Transcript**: `cancer-and-keto.en.txt`
+- **Metadata**: `metadata.txt` - Complete video metadata and download information
 
 # 1. Claims Identified
 
