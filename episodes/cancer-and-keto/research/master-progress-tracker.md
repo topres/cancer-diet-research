@@ -10,31 +10,12 @@
 
 ## Research Methodology
 
-### Objectives
-- Fact-check 26 claims made about cancer metabolism, ketogenic diet, and metabolic therapy
-- Evaluate evidence quality using peer-reviewed scientific literature
-- Identify areas of scientific consensus vs. controversy
-- Document contradictory evidence where it exists
-
 ### Evidence Sources
 - PubMed/MEDLINE database
 - Google Scholar
 - Cochrane Reviews
 - Nature, Science, Cell, Cancer Research journals
 - Clinical trial databases (ClinicalTrials.gov)
-
-### Evidence Quality Scale
-- **🥇 High**: Systematic reviews, meta-analyses, large RCTs
-- **🥈 Moderate**: Individual RCTs, well-designed cohort studies
-- **🥉 Limited**: Case-control studies, animal studies, mechanistic studies
-- **⚠️ Very Limited**: Case reports, in vitro studies, expert opinion
-
-### Assessment Categories
-- **✅ SUPPORTED**: Strong evidence supports the claim
-- **⚖️ PARTIALLY SUPPORTED**: Some evidence supports, with important caveats
-- **❌ NOT SUPPORTED**: Evidence contradicts or doesn't support the claim
-- **❓ INSUFFICIENT EVIDENCE**: Not enough quality evidence to determine
-- **🔍 COMPLEX**: Mixed evidence requiring nuanced interpretation
 
 ---
 
@@ -79,6 +60,25 @@
 - **❌ Not Supported**: 0 claims
 - **❓ Insufficient Evidence**: 0 claims
 - **🔍 Complex**: 1 claim (Claim #3)
+
+### Objectives
+- Fact-check 26 claims made about cancer metabolism, ketogenic diet, and metabolic therapy
+- Evaluate evidence quality using peer-reviewed scientific literature
+- Identify areas of scientific consensus vs. controversy
+- Document contradictory evidence where it exists
+
+### Evidence Quality Scale
+- **🥇 High**: Systematic reviews, meta-analyses, large RCTs
+- **🥈 Moderate**: Individual RCTs, well-designed cohort studies
+- **🥉 Limited**: Case-control studies, animal studies, mechanistic studies
+- **⚠️ Very Limited**: Case reports, in vitro studies, expert opinion
+
+### Assessment Categories
+- **✅ SUPPORTED**: Strong evidence supports the claim
+- **⚖️ PARTIALLY SUPPORTED**: Some evidence supports, with important caveats
+- **❌ NOT SUPPORTED**: Evidence contradicts or doesn't support the claim
+- **❓ INSUFFICIENT EVIDENCE**: Not enough quality evidence to determine
+- **🔍 COMPLEX**: Mixed evidence requiring nuanced interpretation
 
 ---
 
