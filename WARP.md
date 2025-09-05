@@ -13,34 +13,59 @@ This repository is designed for analyzing scientific podcasts about cancer and d
 - `research/` - Supporting research papers, citations, and scientific references  
 - `docs/` - Documentation, methodology, and analysis frameworks
 
-## Common Research Tasks
+## Source Review Guidelines
 
-Since this is a research-focused repository, common operations involve:
+### Using the LLM Source Review System
 
-- Creating episode analysis documents in `episodes/`
-- Adding research papers and citations to `research/`
-- Documenting methodology and frameworks in `docs/`
+When conducting source reviews for claim research documents, **always reference and follow the standardized instructions in `llm-review-sources-instructions.md`**.
 
-## File Organization Guidelines
+#### Key Requirements:
+- Use neutral, evidence-based evaluation (no bias toward medical consensus)
+- Focus on methodology quality over authority/prestige
+- Assess only peer-reviewed literature
+- Follow the standardized table format for consistency
 
-**Episode Analysis Files:**
-- Name format: `YYYY-MM-DD-podcast-name-episode-title.md`
-- Should include: episode metadata, claims identified, fact-checking results, citations
+#### Automation Available:
+- Use `review_sources.sh` script for basic DOI resolution and table generation
+- Manual review required for detailed quality/relevance assessments
+- Ensure all references include DOI links where available
 
-**Research Files:**
-- Include DOI links and proper academic citations
-- Organize by topic areas (e.g., nutrition, oncology, epidemiology)
-- Use consistent naming for easy cross-referencing
+#### Source Review Table Format:
+```markdown
+## Sources Review
 
-**Documentation:**
-- Maintain methodology documentation for consistent fact-checking approaches
-- Keep citation standards and formatting guidelines
+| Reference | Study Type | Sample/Population | Quality | Relevance | Key Finding | Limitations | Support |
+|-----------|------------|-------------------|---------|-----------|-------------|-------------|---------|
+```
+
+#### Quality Assessment Criteria:
+- **High**: Large samples, appropriate controls, low bias, reputable journals
+- **Moderate**: Adequate methodology with some limitations
+- **Low**: Small samples, significant methodological flaws, high bias
+
+#### Support Classification:
+- **Supports**: Clear evidence supporting the claim
+- **Mixed**: Both supporting and contradictory findings
+- **Contradicts**: Clear evidence against the claim
+- **Inconclusive**: Insufficient evidence
+
+### File Organization Guidelines
+
+**Claim Research Files:**
+- Name format: `claim-##-short-description.md`
+- Must include: References section with DOI links, Sources Review table
+- Append Sources Review after References section
+
+**Reference Standards:**
+- Format: `Author et al. (Year). "Title." *Journal* Volume:Pages. https://doi.org/...`
+- Include DOI links for all sources
+- Use consistent citation formatting
 
 ## Git Workflow
 
 This is a content-focused repository where changes typically involve:
 - Adding new episode analyses
-- Updating research findings
+- Updating research findings with source reviews
 - Expanding documentation
 
 The project uses standard git practices with descriptive commit messages for tracking research progress.

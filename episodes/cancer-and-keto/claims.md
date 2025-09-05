@@ -10,7 +10,7 @@
 
 ### **Cancer Metabolism & Diet**
 
-**1.** All cancers depend on fermentation energy (without oxygen) and require glucose and glutamine as fuels
+**1.** ~80% of cancers depend on fermentation energy (without oxygen) and require glucose and glutamine as fuels
 - *Context*: Core metabolic theory claim
 - *Research Focus*: Warburg effect and cancer cell metabolism
 
@@ -28,105 +28,63 @@
 
 ### **Ketogenic Diet & Cancer Treatment**
 
-**5.** Ketogenic diet can be used as both prevention and treatment for cancer by restricting glucose/glutamine while providing ketones
-- *Context*: Primary therapeutic claim
-- *Research Focus*: Clinical trials of ketogenic interventions
-
-**6.** Metabolic therapy (ketogenic approach) allows cancer patients to "outlive their predictabilities"
+**5.** Metabolic therapy (ketogenic approach) allows cancer patients to "outlive their predictabilities"
 - *Context*: Survival benefit claim
 - *Research Focus*: Ketogenic diet survival outcomes
 
-**7.** Chemotherapy at lower doses is more effective when patients are in nutritional ketosis
+**6.** Chemotherapy at lower doses is more effective when patients are in nutritional ketosis
 - *Context*: Synergistic treatment claim
 - *Research Focus*: Keto + chemotherapy combination studies
 
-**8.** Hyperbaric oxygen therapy combined with ketogenic diet increased mouse survival by ~80%
+**7.** Hyperbaric oxygen therapy combined with ketogenic diet increased mouse survival by ~80%
 - *Context*: Combination therapy claim
 - *Research Focus*: Hyperbaric oxygen + ketogenic studies
 
 ### **Historical Diet & Cancer**
 
-**9.** Cancer was extremely rare in traditional populations (African tribes, Arctic populations, Aboriginal peoples) living on ancestral diets
+**8.** Cancer was extremely rare in traditional populations (African tribes, Arctic populations, Aboriginal peoples) living on ancestral diets
 - *Context*: Traditional diet protection claim
 - *Research Focus*: Epidemiological studies of traditional diets
 
-**10.** When modern processed diets entered traditional societies, cancer rates went "out of control"
-- *Context*: Dietary transition and cancer rates
-- *Research Focus*: Nutrition transition studies
-
-**11.** Wild animals (wolves, chimpanzees, monkeys) don't get cancer on natural diets, but domestic animals do
+**9.** Wild animals (wolves, chimpanzees, monkeys) don't get cancer on natural diets, but domestic animals do
 - *Context*: Natural diet vs processed food
 - *Research Focus*: Comparative oncology studies
 
 ### **Human Evolution & Ketosis**
 
-**12.** Humans evolved to be in nutritional ketosis for most of our existence (1.5 million years) due to low carbohydrate availability
-- *Context*: Evolutionary basis for ketogenic diet
-- *Research Focus*: Paleolithic nutrition research
-
-**13.** Our ancestors had no cancer and no obesity while living in natural ketosis
+**10.** Our ancestors had no cancer and no obesity while living in natural ketosis
 - *Context*: Ancestral health claim
 - *Research Focus*: Paleopathology and ancient health
 
 ### **Calorie Restriction & Cancer**
 
-**14.** Calorie restriction in mice makes it "hard to get them to get tumors"
+**11.** Calorie restriction in mice makes it "hard to get them to get tumors"
 - *Context*: Caloric restriction as prevention
 - *Research Focus*: CR and cancer incidence studies
 
-**15.** Mice on calorie restriction had dramatically reduced breast cancer incidence
+**12.** Mice on calorie restriction had dramatically reduced breast cancer incidence
 - *Context*: Specific cancer prevention claim
 - *Research Focus*: CR and mammary tumor studies
 
-**16.** Exercise prevents cancer by lowering blood sugar and glutamine while promoting ketosis
-- *Context*: Exercise as metabolic intervention
-- *Research Focus*: Exercise, metabolism, and cancer prevention
-
-### **Fasting & Cancer**
-
-**17.** Water-only fasting can put the body into therapeutic ketosis for cancer management
-- *Context*: Fasting as metabolic therapy
-- *Research Focus*: Fasting and cancer outcomes
-
-**18.** Intermittent fasting and prolonged fasting can prevent and treat cancer
-- *Context*: Various fasting protocols
-- *Research Focus*: Fasting mimicking diets and cancer
-
 ### **Specific Dietary Components**
 
-**19.** Processed carbohydrates directly promote cancer growth by feeding fermentation pathways
+**13.** Processed carbohydrates directly promote cancer growth by feeding fermentation pathways
 - *Context*: Specific food category harm
 - *Research Focus*: Refined carbohydrates and cancer risk
 
-**20.** Low glycemic index foods help maintain low glucose-ketone index (GKI) for cancer prevention
+**14.** Low glycemic index foods help maintain low glucose-ketone index (GKI) for cancer prevention
 - *Context*: Food selection criteria
 - *Research Focus*: Glycemic index and cancer outcomes
 
-**21.** Mediterranean-style diets that are low in carbohydrates can prevent cancer
-- *Context*: Specific diet pattern recommendation
-- *Research Focus*: Mediterranean diet and cancer prevention
-
 ### **Glucose-Ketone Index (GKI)**
 
-**22.** Maintaining a glucose-ketone index of 2.0 or below prevents tumor cell growth
+**15.** Maintaining a glucose-ketone index of 2.0 or below prevents tumor cell growth
 - *Context*: Specific metabolic target
 - *Research Focus*: GKI measurement and cancer outcomes
 
-**23.** The GKI represents the "Paleolithic zone" where humans historically had no cancer
-- *Context*: Historical metabolic state
-- *Research Focus*: Ancestral metabolic markers
-
 ### **Case Studies & Clinical Applications**
 
-**24.** Linda Nebeling successfully treated childhood brain cancer with ketogenic diet
-- *Context*: Published case study
-- *Research Focus*: Pediatric ketogenic cancer therapy
-
-**25.** Pablo Kelly (glioblastoma) survived 10 years using only metabolic therapy without standard treatment
-- *Context*: Dramatic survival case
-- *Research Focus*: Metabolic monotherapy outcomes
-
-**26.** Dog with mast cell tumor was resolved using raw food ketogenic approach
+**16.** Dog with mast cell tumor was resolved using raw food ketogenic approach
 - *Context*: Veterinary application
 - *Research Focus*: Ketogenic therapy in animal models
 
@@ -134,25 +92,65 @@
 
 ## Research Status Tracking
 
-| Claim # | Research Status | Evidence Quality | Notes |
-|---------|----------------|------------------|-------|
-| 1 | ⏳ Pending | | Core Warburg effect |
-| 2 | ⏳ Pending | | Direct glucose-tumor relationship |
-| 3 | ⏳ Pending | | Ketone utilization differences |
-| 4 | ⏳ Pending | | Ketone efficiency claims |
-| 5 | ⏳ Pending | | Primary therapeutic claim |
-| 6-26 | ⏳ Pending | | |
+| # | Claim Summary | Status | Evidence | Priority | Research Files | Notes |
+|---|---------------|--------|----------|----------|----------------|-------|
+| 1 | ~80% of cancers depend on fermentation energy | Complete | Moderate | High | [claim-01](research/claim-01-cancer-metabolism.md) | SUPPORTED - Modified from "all" to accurate percentage |
+| 2 | Higher blood sugar = faster tumor growth | Complete | Moderate | High | [claim-02](research/claim-02-blood-sugar-tumor-growth.md) | SUPPORTED - Strong epidemiological evidence |
+| 3 | Cancer cells can't burn ketones effectively | Complete | Moderate | High | [claim-03](research/claim-03-ketone-metabolism.md) | COMPLEX - Mixed evidence, varies by cancer type |
+| 4 | Ketones are "super fuel" for healthy cells | Pending | TBD | Medium | | Energy efficiency claim |
+| 5 | Metabolic therapy improves survival | Pending | TBD | High | | Patient outcomes |
+| 6 | Keto enhances chemotherapy effectiveness | Pending | TBD | High | | Combination therapy |
+| 7 | Keto + hyperbaric oxygen increases survival | Pending | TBD | Medium | | Specific combination |
+| 8 | Traditional diets prevented cancer | Pending | TBD | Medium | | Historical epidemiology |
+| 9 | Wild animals don't get cancer | Pending | TBD | Low | | Comparative oncology |
+| 10 | Ancestors had no cancer/obesity | Pending | TBD | Low | | Paleopathology |
+| 11 | Calorie restriction prevents tumors (mice) | Pending | TBD | High | | CR cancer prevention |
+| 12 | CR reduces breast cancer in mice | Pending | TBD | High | | Specific CR study |
+| 13 | Processed carbs promote cancer | Pending | TBD | High | | Specific food harm |
+| 14 | Low GI foods prevent cancer | Pending | TBD | Medium | | Glycemic index effects |
+| 15 | GKI ≤ 2.0 prevents tumor growth | Pending | TBD | Medium | | Specific metabolic target |
+| 16 | Dog mast cell tumor resolved with keto | Pending | TBD | Low | | Veterinary application |
+| 17 | Fasting induces therapeutic ketosis | ⏳ Pending | TBD | Medium | | Fasting protocols |
+| 18 | Intermittent fasting prevents cancer | ⏳ Pending | TBD | Medium | | IF and cancer |
+| 19 | Processed carbs promote cancer | ⏳ Pending | TBD | High | | Specific food harm |
+| 20 | Low GI foods prevent cancer | ⏳ Pending | TBD | Medium | | Glycemic index effects |
+| 21 | Low-carb Mediterranean diet prevents cancer | ⏳ Pending | TBD | Medium | | Diet pattern study |
+| 22 | GKI ≤ 2.0 prevents tumor growth | ⏳ Pending | TBD | Medium | | Specific metabolic target |
+| 23 | GKI represents "Paleolithic zone" | ⏳ Pending | TBD | Low | | Historical metabolic state |
+| 24 | Nebeling case: keto cured brain cancer | ⏳ Pending | TBD | High | | Published case study |
+| 25 | Pablo Kelly: 10-year glioblastoma survival | ⏳ Pending | TBD | High | | Dramatic survival case |
+| 26 | Dog mast cell tumor resolved with keto | ⏳ Pending | TBD | Low | | Veterinary application |
 
 **Legend:**
 - ⏳ Pending - Not yet researched
 - 🔍 In Progress - Currently being fact-checked
-- ✅ Confirmed - Supported by peer-reviewed evidence
-- ❌ Refuted - Contradicted by peer-reviewed evidence  
-- ⚖️ Mixed - Some supporting, some contradicting evidence
-- ❓ Uncertain - Insufficient evidence to determine
+- ✅ Complete - Research completed
+- ✅ Supported - Claim supported by evidence
+- ⚖️ Partially Supported - Mixed evidence with caveats
+- ❌ Not Supported - Contradicted by evidence
+- 🔍 Complex - Requires nuanced interpretation
+- ❓ Insufficient - Not enough quality evidence
 
 ---
 
-**Total Relevant Claims: 26**  
+## Research Progress Summary
+
+**Research Statistics:**
+- **Total Claims**: 16
+- **Completed**: 3 (18.8%)
+- **Pending**: 13 (81.2%)
+
+**Evidence Quality:**
+- **🥇 High Evidence**: 0 claims
+- **🥈 Moderate Evidence**: 3 claims
+- **🥉 Limited Evidence**: 0 claims
+
+**Assessment Distribution:**
+- **✅ Supported**: 2 claims (#1 - Modified Warburg effect, #2 - Blood sugar correlation)
+- **⚖️ Partially Supported**: 0 claims
+- **🔍 Complex**: 1 claim (#3 - Ketone metabolism)
+- **❌ Not Supported**: 0 claims
+- **❓ Insufficient**: 0 claims
+
 **Focus Areas**: Ketogenic diet efficacy, metabolic therapy, calorie restriction, fasting, evolutionary nutrition  
 **Last Updated**: 2025-01-05
