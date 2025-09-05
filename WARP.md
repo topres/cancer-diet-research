@@ -8,7 +8,8 @@ This repository is designed for analyzing scientific podcasts about cancer and d
 
 ## Repository Structure
 
-- `episodes/` - Individual podcast episode breakdowns and analysis
+- `episodes/` - Organized by topic areas (e.g., `cancer-and-keto/`, `nutrition-myths/`)
+  - Each topic directory contains episode analysis files and all related assets
 - `research/` - Supporting research papers, citations, and scientific references  
 - `docs/` - Documentation, methodology, and analysis frameworks
 

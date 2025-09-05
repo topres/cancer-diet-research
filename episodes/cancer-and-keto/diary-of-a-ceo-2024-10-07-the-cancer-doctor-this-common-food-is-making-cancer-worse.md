@@ -3,9 +3,9 @@ youtube_id: VaVC3PAWqLk
 upload_date: 2024-10-07
 podcast: The Diary Of A CEO
 title: "The Cancer Doctor: This Common Food Is Making Cancer Worse!"
-video_file: assets/2024-10-07-diary-of-a-ceo-the-cancer-doctor-this-common-food-is-making-cancer-worse.mp4
-transcript_file: assets/2024-10-07-diary-of-a-ceo-the-cancer-doctor-this-common-food-is-making-cancer-worse.en.txt
-auto_transcript_file: assets/2024-10-07-diary-of-a-ceo-the-cancer-doctor-this-common-food-is-making-cancer-worse.en-orig.txt
+video_file: diary-of-a-ceo-2024-10-07-the-cancer-doctor-this-common-food-is-making-cancer-worse.mp4
+transcript_file: diary-of-a-ceo-2024-10-07-the-cancer-doctor-this-common-food-is-making-cancer-worse.en.txt
+auto_transcript_file: diary-of-a-ceo-2024-10-07-the-cancer-doctor-this-common-food-is-making-cancer-worse.en-orig.txt
 duration_seconds: 5853
 duration_display: "1h 37m 33s"
 ---
@@ -19,9 +19,9 @@ duration_display: "1h 37m 33s"
 * **Description**: A discussion about cancer prevention and the role of diet in cancer development
 
 ## Files Available
-- **Video**: `assets/2024-10-07-diary-of-a-ceo-the-cancer-doctor-this-common-food-is-making-cancer-worse.mp4` (264 MB)
-- **Original Transcript**: `assets/2024-10-07-diary-of-a-ceo-the-cancer-doctor-this-common-food-is-making-cancer-worse.en-orig.txt`
-- **Auto-generated Transcript**: `assets/2024-10-07-diary-of-a-ceo-the-cancer-doctor-this-common-food-is-making-cancer-worse.en.txt`
+- **Video**: `diary-of-a-ceo-2024-10-07-the-cancer-doctor-this-common-food-is-making-cancer-worse.mp4` (264 MB)
+- **Original Transcript**: `diary-of-a-ceo-2024-10-07-the-cancer-doctor-this-common-food-is-making-cancer-worse.en-orig.txt`
+- **Auto-generated Transcript**: `diary-of-a-ceo-2024-10-07-the-cancer-doctor-this-common-food-is-making-cancer-worse.en.txt`
 
 # 1. Claims Identified
 
